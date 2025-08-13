@@ -1,0 +1,39 @@
+<definition height="170" version="0.100.0" type="element" link_type="simple" hotspot_x="9" width="20" hotspot_y="85">
+    <uuid uuid="{33f6c71d-9fdc-4f5d-9c88-629a69531ea6}"/>
+    <names>
+        <name lang="pl">F&amp;F LK-701</name>
+    </names>
+    <elementInformations/>
+    <description>
+        <rect height="162" x="-6.5" y="-81" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false" width="13"/>
+        <line length1="1.5" length2="1.5" y1="-65" y2="-65" end1="none" x1="-6.5" end2="none" x2="6.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="LK" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" x="-2.5" y="-36" color="#000000"/>
+        <rect height="4" x="-5.5" y="-45" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:HTMLGreenGreen;color:HTMLGreenGreen" antialias="false" width="11"/>
+        <text text="F F" rotation="0" font="Futura,6,-1,5,57,1,0,0,0,0,Medium Italic" x="-4.5" y="-41" color="#ffffff"/>
+        <text text="&amp;" rotation="0" font="Futura,3,-1,5,57,1,0,0,0,0,Medium Italic" x="-1.5" y="-42" color="#ffffff"/>
+        <text text="3" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" x="1.5" y="-75" color="#000000"/>
+        <circle x="-2.5" y="-73" diameter="6" style="line-style:normal;line-weight:normal;filling:lightgray;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="-72" y2="-68" end1="none" x1="-1.5" end2="none" x2="2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect height="5" x="-2.5" y="-24" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false" width="5"/>
+        <rect height="5" x="-2.5" y="27" rx="0" ry="0" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false" width="5"/>
+        <rect height="5" x="-2.5" y="1" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:HTMLBlueDodgerBlue;color:black" antialias="false" width="5"/>
+        <text text=" H" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" x="-2.5" y="12" color="#000000"/>
+        <text text="701" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" x="-3.5" y="-30" color="#000000"/>
+        <line length1="1.5" length2="1.5" y1="-49" y2="-49" end1="none" x1="-6.5" end2="none" x2="6.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="2" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" x="1.5" y="-59" color="#000000"/>
+        <circle x="-2.5" y="-57" diameter="6" style="line-style:normal;line-weight:normal;filling:lightgray;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="-56" y2="-52" end1="none" x1="-1.5" end2="none" x2="2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="65" y2="65" end1="none" x1="-6.5" end2="none" x2="6.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="1" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" x="1.5" y="63" color="#000000"/>
+        <circle x="-3.5" y="52" diameter="6" style="line-style:normal;line-weight:normal;filling:lightgray;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="53" y2="57" end1="none" x1="-2.5" end2="none" x2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="49" y2="49" end1="none" x1="-6.5" end2="none" x2="6.5" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="4" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" x="1.5" y="80" color="#000000"/>
+        <circle x="-3.5" y="68" diameter="6" style="line-style:normal;line-weight:normal;filling:lightgray;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="69" y2="73" end1="none" x1="-2.5" end2="none" x2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal type="Generic" orientation="s" x="0.5" y="-68" name="" uuid="{5c106f0a-a7f8-4eb4-8474-eb8aa6ec0a78}"/>
+        <terminal type="Generic" orientation="s" x="-0.5" y="73" name="" uuid="{928bdaf3-6012-487d-8019-5176ac2e0440}"/>
+        <terminal type="Generic" orientation="s" x="-0.5" y="57" name="" uuid="{0de623d0-e3b4-4dd0-a94d-c7ffccd485ad}"/>
+        <terminal type="Generic" orientation="s" x="0.5" y="-52" name="" uuid="{d9a1e370-2517-4165-9375-1bafd0e6ebc9}"/>
+    </description>
+</definition>
